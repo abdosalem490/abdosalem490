@@ -2,5 +2,5 @@
 - 👀 I’m interested in anything related to hardware
 - 🌱 I’m currently learning in embedded systems
 - 💞️ I’m looking to collaborate on a big IOT systems
-- 📫 How to reach me : 01122786504 or by email : abdosalm555@gmail.com
+- 📫 How to reach me : by phone 01122786504 or by email : abdosalm555@gmail.com
 - status : still working on my profile.....
