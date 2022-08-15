@@ -1,6 +1,6 @@
 - 👋 Hi, I’m abdo salm
 - 👀 I’m interested in anything related to hardware
 - 🌱 I’m currently learning in embedded systems
-- 💞️ I’m looking to collaborate on a big IOT systems
+- 💞️ I’m looking to collaborate on a big IOT systems project
 - 📫 How to reach me : by phone 01122786504 or by email : abdosalm555@gmail.com
 - status : still working on my profile.....
